@@ -26,6 +26,8 @@ I'm a self-taught passionate FrontEnd developer from London 🇬🇧
 <a href="https://github.com/gitmurali/gitmurali.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gitmurali&repo=gitmurali.github.io&theme=synthwave" />
 </a>
+
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=gitmurali&theme=react-dark" alt="Adrian's contribution graph" /></p>
 <!--
 **gitmurali/gitmurali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
