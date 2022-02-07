@@ -16,11 +16,11 @@ I'm a self-taught passionate FrontEnd developer from London 🇬🇧
 
 #### Top Repositories
 
-<a href="https://github.com/gitmurali/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gitmurali&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/gitmurali/js-algos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gitmurali&repo=js-algos&theme=cobalt" />
 </a>
 <a href="https://github.com/gitmurali/gitmurali.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gitmurali&repo=gitmurali.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gitmurali&repo=gitmurali.github.io&theme=cobalt" />
 </a>
 <!--
 **gitmurali/gitmurali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
