@@ -1,4 +1,4 @@
-<p align="center"><a href="https://gitmurali.github.io"><img width="80%" src="https://uploads.codesandbox.io/uploads/user/30d44814-1835-445a-ba8a-03048afcf095/Apjn-murali22.png" /></a></p>
+<p align="center"><a href="https://gitmurali.github.io"><img width="80%" src="./assets/murali.png" /></a></p>
 
 <br />
 
