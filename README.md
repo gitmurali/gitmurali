@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a self-taught passionate FrontEnd developer from London
+
 <!--
 **gitmurali/gitmurali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
