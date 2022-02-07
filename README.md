@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from London 🇬🇧
+I'm a self-taught passionate FrontEnd developer.
 
 **Languages and Tools:**
 
