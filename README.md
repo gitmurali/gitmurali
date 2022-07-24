@@ -4,7 +4,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer.
+I'm a self-taught passionate FrontEnd developer. Find me here `npx gomurali`
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gomurali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
