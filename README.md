@@ -29,7 +29,7 @@ I'm a self-taught passionate FrontEnd developer. Find me here `npx gomurali`
 </p>
 
 ### 🔧 Technologies I'm passionate about
-
+<!-- 
 <!-- use https://simpleicons.org/ to find icons and colors -->
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&labelColor=121212&color=007ACC)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=121212&color=F7DF1E)
@@ -66,7 +66,7 @@ I'm a self-taught passionate FrontEnd developer. Find me here `npx gomurali`
 ![Sketch](https://img.shields.io/badge/Tool-Sketch-informational?style=flat&logo=sketch&logoColor=white&labelColor=121212&color=F7B500)
 ![Amazon_AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&labelColor=121212&color=232F3E)
 ![Google_Cloud](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&labelColor=121212&color=4285F4)
-![Akamai](https://img.shields.io/badge/CDN-Akamai-informational?style=flat&logo=akamai&logoColor=white&labelColor=121212&color=1293D8)
+![Akamai](https://img.shields.io/badge/CDN-Akamai-informational?style=flat&logo=akamai&logoColor=white&labelColor=121212&color=1293D8) -->
 
 | <a href="https://github.com/gitmurali/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gitmurali&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Murali's github stats" /></a> | <a href="https://github.com/gitmurali/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitmurali&layout=compact&theme=radical&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
