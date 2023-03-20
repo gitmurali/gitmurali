@@ -49,7 +49,3 @@ I'm a self-taught passionate FrontEnd developer. Find me here `npx gomurali`
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=gitmurali&theme=react-dark" alt="Murali's contribution graph" /></p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitmurali"></img>
-
-<p align="center">
- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
