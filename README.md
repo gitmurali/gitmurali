@@ -43,6 +43,4 @@ I'm a self-taught AI Enthusiast, passionate developer, Cloud enthusiast & a Staf
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gitmurali&repo=gitmurali.github.io&theme=synthwave" />
 </a>
 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=gitmurali&theme=react-dark" alt="Murali's contribution graph" /></p>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitmurali"></img>
