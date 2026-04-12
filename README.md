@@ -31,11 +31,7 @@ I'm a self-taught AI Enthusiast, passionate developer, Cloud enthusiast & a Staf
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>&nbsp;
 </p>
 
-### 🔧 Technologies I'm passionate about
-
-
-| <a href="https://github.com/gitmurali/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gitmurali&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Murali's github stats" /></a> | <a href="https://github.com/gitmurali/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitmurali&layout=compact&theme=radical&hide_border=true" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+### 🔧 Technologies I'm passionate abo
 
 
 #### Top Repositories
