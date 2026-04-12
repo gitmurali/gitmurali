@@ -31,16 +31,5 @@ I'm a self-taught AI Enthusiast, passionate developer, Cloud enthusiast & a Staf
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>&nbsp;
 </p>
 
-### 🔧 Technologies I'm passionate abo
-
-
-#### Top Repositories
-
-<a href="https://github.com/gitmurali/react-hooks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gitmurali&repo=react-hooks&theme=cobalt" />
-</a>
-<a href="https://github.com/gitmurali/gitmurali.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gitmurali&repo=gitmurali.github.io&theme=synthwave" />
-</a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitmurali"></img>
