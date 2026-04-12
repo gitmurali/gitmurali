@@ -4,7 +4,7 @@
 
 <br />
 
-I'm a self-taught AWS solutions architect & passionate FrontEnd developer. Find me here `npx gomurali`
+I'm a self-taught AI Enthusiast, passionate developer, Cloud enthusiast & a Staff Engineer. Find me here `npx gomurali`
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gomurali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
